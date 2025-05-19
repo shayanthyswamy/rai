@@ -1,1 +1,15 @@
 # rai
+import numpy as np
+
+#creating an array
+
+array=np.array([[1,2,3],[4,5,6]])
+
+
+#1. Type of Array
+
+array_type=type(array)
+
+#this is a python program
+
+
